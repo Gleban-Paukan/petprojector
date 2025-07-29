@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+
+langchain>=0.1.0
+langchain-huggingface
+langchain-community
+chromadb
+
+transformers
+sentence-transformers
+
+numpy
+pandas
